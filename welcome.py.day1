@@ -1,0 +1,2 @@
+hema=input("welcome to my world")
+print(hema)
