@@ -1,0 +1,5 @@
+l = float(input("Length: "))
+b = float(input("Breadth: "))
+h = float(input("Height: "))
+v = l * b * h
+print("Volume =", v)
