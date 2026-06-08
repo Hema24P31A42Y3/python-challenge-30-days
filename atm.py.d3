@@ -1,0 +1,5 @@
+amount=float(input('Enter the withdraw amount:'))
+if amount <=5000:
+    print('withdrawl amount can be processed')
+else:
+    print('insifficient balance')
