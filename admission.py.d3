@@ -1,0 +1,6 @@
+marks=int(input('Enter the marks:'))
+sports = input('sports quota certificate(yes/no):')
+if marks >= 70 or sports == "yes":
+    print('eligible for admission')
+else:
+    print('not eligible')
