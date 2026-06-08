@@ -1,0 +1,7 @@
+num=int(input('Enter the number:'))
+if num % 3==0 and num % 5==0:
+    print(num, 'is divisible with both numbers')
+elif num % 3 == 0:
+    print(num, 'is divisible by 3')
+else:
+    print(num, 'is divisible by 5')
